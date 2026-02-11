@@ -13,3 +13,7 @@ pip install -r requirements.txt
 python run.py
 
 _For more details refer to Word2Vec_Report.pdf_
+
+## Report PDF
+
+**[Download the full report (PDF)](./Word2Vec_Report.pdf)**
