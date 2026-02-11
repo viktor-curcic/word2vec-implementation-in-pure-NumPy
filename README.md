@@ -1,3 +1,7 @@
+# Word2Vec implementation in pure NumPy, with complete training loop
+
+Analysis of the Word2Vec model with negative sampling, developed without relying on deep learning frameworks
+
 ## Prerequisites
 
 Install requirements
